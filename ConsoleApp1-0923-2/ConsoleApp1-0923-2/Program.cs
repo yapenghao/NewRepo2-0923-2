@@ -12,7 +12,7 @@ namespace ConsoleApp1_0923_2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-            Thread.Sleep(5000);
+            Thread.Sleep(6000);
 
         }
     }
